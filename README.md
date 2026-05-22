@@ -1,16 +1,45 @@
-## Hi there 👋
+# Abel Abad
 
-<!--
-**abeluco518/abeluco518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student interested in software development, algorithms and backend systems.
 
-Here are some ideas to get you started:
+Currently working on:
+- Graph-based navigation systems in C
+- Web applications with payment integration
+- Data structures and algorithms projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Technologies
+
+- C
+- Python
+- JavaScript
+- SQL
+- Git
+- Linux
+
+---
+
+# Featured Projects
+
+## Mini Google Maps
+Graph-based navigation system implemented in C using custom data structures and routing algorithms.
+
+## Payment Platform
+Web application with Stripe payment integration and backend logic.
+
+---
+
+# Interests
+
+- Algorithms
+- Systems programming
+- Backend development
+- Software architecture
+
+---
+
+# Contact
+
+- LinkedIn: linkedin.com/in/tuusuario
+- Email: tuemail@gmail.com
