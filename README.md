@@ -1,9 +1,9 @@
 # Abel Abad
 
-Computer Engineering student interested in software development, algorithms and backend systems.
+Informatic Engineering student interested in data analysis, algorithms and frontend systems.
 
 Currently working on:
-- Graph-based navigation systems in C
+- Navigation systems in C
 - Web applications with payment integration
 - Data structures and algorithms projects
 
@@ -14,6 +14,9 @@ Currently working on:
 - C
 - Python
 - JavaScript
+- HTML
+- CSS
+- Sass
 - SQL
 - Git
 - Linux
@@ -33,13 +36,13 @@ Web application with Stripe payment integration and backend logic.
 # Interests
 
 - Algorithms
-- Systems programming
-- Backend development
-- Software architecture
+- Data structure
+- Data analysis
+- Frontend development
 
 ---
 
 # Contact
 
-- LinkedIn: linkedin.com/in/tuusuario
-- Email: tuemail@gmail.com
+- LinkedIn: linkedin.com/in/abel-abad-undefined-5773652a3
+- Email: ababcantudo@gmail.com
