@@ -44,5 +44,5 @@ Web application with Stripe payment integration and backend logic.
 
 # Contact
 
-- LinkedIn: linkedin.com/in/abel-abad-undefined-5773652a3
+- LinkedIn: linkedin.com/in/abel-abad
 - Email: ababcantudo@gmail.com
