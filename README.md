@@ -28,8 +28,8 @@ Currently working on:
 ## Mini Google Maps
 Graph-based navigation system implemented in C using custom data structures and routing algorithms.
 
-## Payment Platform
-Web application with Stripe payment integration and backend logic.
+## Payment Web Page
+Web page with Stripe payment integration and backend logic.
 
 ---
 
